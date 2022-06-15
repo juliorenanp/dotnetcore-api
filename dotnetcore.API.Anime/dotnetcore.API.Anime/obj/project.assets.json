@@ -72,6 +72,26 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "dotnetcore.API.Anime.BusinessObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/dotnetcore.API.Anime.BusinessObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dotnetcore.API.Anime.BusinessObjects.dll": {}
+        }
+      },
+      "dotnetcore.API.Anime.Dal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/dotnetcore.API.Anime.Dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dotnetcore.API.Anime.Dal.dll": {}
+        }
       }
     }
   },
@@ -200,11 +220,23 @@
         "swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "dotnetcore.API.Anime.BusinessObjects/1.0.0": {
+      "type": "project",
+      "path": "../dotnetcore.API.Anime.BusinessObjects/dotnetcore.API.Anime.BusinessObjects.csproj",
+      "msbuildProject": "../dotnetcore.API.Anime.BusinessObjects/dotnetcore.API.Anime.BusinessObjects.csproj"
+    },
+    "dotnetcore.API.Anime.Dal/1.0.0": {
+      "type": "project",
+      "path": "../dotnetcore.API.Anime.Dal/dotnetcore.API.Anime.Dal.csproj",
+      "msbuildProject": "../dotnetcore.API.Anime.Dal/dotnetcore.API.Anime.Dal.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Swashbuckle.AspNetCore >= 6.3.1"
+      "Swashbuckle.AspNetCore >= 6.3.1",
+      "dotnetcore.API.Anime.BusinessObjects >= 1.0.0",
+      "dotnetcore.API.Anime.Dal >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -232,7 +264,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\projetos\\dotnetcore-api\\dotnetcore.API.Anime\\dotnetcore.API.Anime.BusinessObjects\\dotnetcore.API.Anime.BusinessObjects.csproj": {
+              "projectPath": "C:\\projetos\\dotnetcore-api\\dotnetcore.API.Anime\\dotnetcore.API.Anime.BusinessObjects\\dotnetcore.API.Anime.BusinessObjects.csproj"
+            },
+            "C:\\projetos\\dotnetcore-api\\dotnetcore.API.Anime\\dotnetcore.API.Anime.Dal\\dotnetcore.API.Anime.Dal.csproj": {
+              "projectPath": "C:\\projetos\\dotnetcore-api\\dotnetcore.API.Anime\\dotnetcore.API.Anime.Dal\\dotnetcore.API.Anime.Dal.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

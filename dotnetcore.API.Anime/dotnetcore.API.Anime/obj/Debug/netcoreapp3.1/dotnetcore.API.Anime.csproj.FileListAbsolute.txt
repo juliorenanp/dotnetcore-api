@@ -30,3 +30,7 @@ C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\n
 C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.dll
 C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.pdb
 C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.genruntimeconfig.cache
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.BusinessObjects.dll
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.dll
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.BusinessObjects.pdb
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.pdb

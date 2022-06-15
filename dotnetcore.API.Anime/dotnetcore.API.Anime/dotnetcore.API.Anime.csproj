@@ -8,5 +8,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\dotnetcore.API.Anime.BusinessObjects\dotnetcore.API.Anime.BusinessObjects.csproj" />
+    <ProjectReference Include="..\dotnetcore.API.Anime.Dal\dotnetcore.API.Anime.Dal.csproj" />
+  </ItemGroup>
+
 
 </Project>

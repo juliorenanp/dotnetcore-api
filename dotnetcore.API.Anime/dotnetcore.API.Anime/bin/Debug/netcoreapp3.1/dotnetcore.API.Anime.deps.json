@@ -25,6 +25,8 @@
       "dotnetcore.API.Anime/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "6.3.1",
+          "dotnetcore.API.Anime.BusinessObjects": "1.0.0",
+          "dotnetcore.API.Anime.Dal": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -372,6 +374,22 @@
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "dotnetcore.API.Anime.BusinessObjects/1.0.0": {
+        "runtime": {
+          "dotnetcore.API.Anime.BusinessObjects.dll": {}
+        },
+        "compile": {
+          "dotnetcore.API.Anime.BusinessObjects.dll": {}
+        }
+      },
+      "dotnetcore.API.Anime.Dal/1.0.0": {
+        "runtime": {
+          "dotnetcore.API.Anime.Dal.dll": {}
+        },
+        "compile": {
+          "dotnetcore.API.Anime.Dal.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2115,6 +2133,16 @@
       "sha512": "sha512-JLm9hN67jh7RHsX3H30+tb432Li8xm/qV5lRyMMkyHYMfWitIuKAAdrpo2ILcHOIeH7CLMuOO2hp/iLBmE+Bkw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.3.1",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+    },
+    "dotnetcore.API.Anime.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dotnetcore.API.Anime.Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

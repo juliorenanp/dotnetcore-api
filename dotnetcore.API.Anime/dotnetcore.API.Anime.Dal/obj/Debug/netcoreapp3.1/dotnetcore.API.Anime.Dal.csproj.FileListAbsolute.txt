@@ -1,0 +1,9 @@
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.deps.json
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.dll
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.pdb
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.csprojAssemblyReference.cache
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.AssemblyInfoInputs.cache
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.AssemblyInfo.cs
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.csproj.CoreCompileInputs.cache
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.dll
+C:\projetos\dotnetcore-api\dotnetcore.API.Anime\dotnetcore.API.Anime.Dal\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.pdb
