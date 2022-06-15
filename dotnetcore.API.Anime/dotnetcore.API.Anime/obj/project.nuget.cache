@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IcZDm7eztCuCwnSTQ8sVXuYbRLxNC3CVUAHMhqTq5X+G64xriwtJ896m/FkWcdMIVzaZle+n7xyotiRuWAHWig==",
+  "dgSpecHash": "KHl/YJ0C194bG0TexNNDwi9g1I77s/jzdHfn2RNQD+8DNXH22txiQVx5Slr4PK2uzBMUhNUjvpg3f0RUo95BLA==",
   "success": true,
   "projectFilePath": "C:\\projetos\\dotnetcore-api\\dotnetcore.API.Anime\\dotnetcore.API.Anime\\dotnetcore.API.Anime.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ghost\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\Ghost\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\Ghost\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\Ghost\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
   "logs": []
 }

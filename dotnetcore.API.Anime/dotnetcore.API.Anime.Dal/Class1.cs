@@ -2,7 +2,7 @@
 
 namespace dotnetcore.API.Anime.Dal
 {
-    private class Class1
+    public class Class1
     {
     }
 }
