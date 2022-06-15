@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -9,6 +10,8 @@ namespace dotnetcore.API.Aime.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [Produces("application/json")]
+    [ProducesResponseType(typeof(string), StatusCodes.Status500InternalServerError)]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -24,6 +27,8 @@ namespace dotnetcore.API.Aime.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(typeof(IEnumerable<WeatherForecast>),StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(IEnumerable<WeatherForecast>), StatusCodes.Status400BadRequest)]
         public IEnumerable<WeatherForecast> Get()
         {
             var rng = new Random();
@@ -35,5 +40,11 @@ namespace dotnetcore.API.Aime.Controllers
             })
             .ToArray();
         }
+
+        //[HttpGet]
+        //public IEnumerable<string> Test()
+        //{
+        //    return "teste";
+        //}
     }
 }
