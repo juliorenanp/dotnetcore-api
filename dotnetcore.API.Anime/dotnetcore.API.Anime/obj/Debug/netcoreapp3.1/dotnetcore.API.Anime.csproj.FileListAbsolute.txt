@@ -1,0 +1,6 @@
+C:\projetos\teste_api\dotnetcore.API.Anime\dotnetcore.API.Anime\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.BusinessObjects.dll
+C:\projetos\teste_api\dotnetcore.API.Anime\dotnetcore.API.Anime\bin\Debug\netcoreapp3.1\dotnetcore.API.Anime.Dal.dll
+C:\projetos\teste_api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.csprojAssemblyReference.cache
+C:\projetos\teste_api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.AssemblyInfoInputs.cache
+C:\projetos\teste_api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.AssemblyInfo.cs
+C:\projetos\teste_api\dotnetcore.API.Anime\dotnetcore.API.Anime\obj\Debug\netcoreapp3.1\dotnetcore.API.Anime.RazorTargetAssemblyInfo.cache
